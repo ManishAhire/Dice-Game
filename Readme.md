@@ -24,8 +24,8 @@ Simple app to roll the dice on button presses
 ### iPad Portrait Mode
 ![iPad Portrait Mode](./Screenshots/iPad Portrait Mode.png)
 
-### iPad Portrait Mode
-![iPad Portrait Mode](./Screenshots/iPad Lanscape Mode.png)
+### iPad Lanscape Mode
+![iPad Lanscape Mode](./Screenshots/iPad Lanscape Mode.png)
 
 
 ## Contact
