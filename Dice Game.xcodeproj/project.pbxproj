@@ -13,8 +13,6 @@
 		11055F602788C38500790E01 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11055F5E2788C38500790E01 /* Main.storyboard */; };
 		11055F622788C38800790E01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11055F612788C38800790E01 /* Assets.xcassets */; };
 		11055F652788C38800790E01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11055F632788C38800790E01 /* LaunchScreen.storyboard */; };
-		11055F6D2788D07D00790E01 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 11055F6C2788D07D00790E01 /* README.md */; };
-		11B144862799DB78004F9A08 /* Screenshots in Resources */ = {isa = PBXBuildFile; fileRef = 11B144852799DB77004F9A08 /* Screenshots */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +24,6 @@
 		11055F612788C38800790E01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11055F642788C38800790E01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		11055F662788C38800790E01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		11055F6C2788D07D00790E01 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		11B144852799DB77004F9A08 /* Screenshots */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Screenshots; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,8 +40,6 @@
 		11055F4C2788C38500790E01 = {
 			isa = PBXGroup;
 			children = (
-				11B144852799DB77004F9A08 /* Screenshots */,
-				11055F6C2788D07D00790E01 /* README.md */,
 				11055F572788C38500790E01 /* Dice Game */,
 				11055F562788C38500790E01 /* Products */,
 			);
@@ -133,9 +127,7 @@
 			files = (
 				11055F652788C38800790E01 /* LaunchScreen.storyboard in Resources */,
 				11055F622788C38800790E01 /* Assets.xcassets in Resources */,
-				11055F6D2788D07D00790E01 /* README.md in Resources */,
 				11055F602788C38500790E01 /* Main.storyboard in Resources */,
-				11B144862799DB78004F9A08 /* Screenshots in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
