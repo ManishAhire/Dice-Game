@@ -16,16 +16,16 @@ Simple app to roll the dice on button presses
 ## Screenshots
 
 ### iPhone Portrait Mode
-![iPhone Portrait Mode](Screenshots/iPhone Portrait Mode.png)
+![iPhone Portrait Mode](Screenshots/iPhonePortraitMode.png)
 
 ### iPhone Lanscape Mode
-![iPhone Lanscape Mode](Screenshots/iPhone Lanscape Mode.png)
+![iPhone Lanscape Mode](Screenshots/iPhoneLanscapeMode.png)
 
 ### iPad Portrait Mode
-![iPad Portrait Mode](Screenshots/iPad Portrait Mode.png)
+![iPad Portrait Mode](Screenshots/iPadPortraitMode.png)
 
 ### iPad Lanscape Mode
-![iPad Lanscape Mode](Screenshots/iPad Lanscape Mode.png)
+![iPad Lanscape Mode](Screenshots/iPadLanscapeMode.png)
 
 
 ## Contact

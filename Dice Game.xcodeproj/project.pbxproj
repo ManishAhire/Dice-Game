@@ -14,10 +14,10 @@
 		11055F622788C38800790E01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11055F612788C38800790E01 /* Assets.xcassets */; };
 		11055F652788C38800790E01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11055F632788C38800790E01 /* LaunchScreen.storyboard */; };
 		11B144882799E125004F9A08 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 11B144872799E125004F9A08 /* Readme.md */; };
-		11B1448E2799E387004F9A08 /* iPhone Lanscape Mode.png in Resources */ = {isa = PBXBuildFile; fileRef = 11B1448A2799E386004F9A08 /* iPhone Lanscape Mode.png */; };
-		11B1448F2799E387004F9A08 /* iPhone Portrait Mode.png in Resources */ = {isa = PBXBuildFile; fileRef = 11B1448B2799E387004F9A08 /* iPhone Portrait Mode.png */; };
-		11B144902799E387004F9A08 /* iPad Lanscape Mode.png in Resources */ = {isa = PBXBuildFile; fileRef = 11B1448C2799E387004F9A08 /* iPad Lanscape Mode.png */; };
-		11B144912799E387004F9A08 /* iPad Portrait Mode.png in Resources */ = {isa = PBXBuildFile; fileRef = 11B1448D2799E387004F9A08 /* iPad Portrait Mode.png */; };
+		11B1448E2799E387004F9A08 /* iPhoneLanscapeMode.png in Resources */ = {isa = PBXBuildFile; fileRef = 11B1448A2799E386004F9A08 /* iPhoneLanscapeMode.png */; };
+		11B1448F2799E387004F9A08 /* iPhonePortraitMode.png in Resources */ = {isa = PBXBuildFile; fileRef = 11B1448B2799E387004F9A08 /* iPhonePortraitMode.png */; };
+		11B144902799E387004F9A08 /* iPadLanscapeMode.png in Resources */ = {isa = PBXBuildFile; fileRef = 11B1448C2799E387004F9A08 /* iPadLanscapeMode.png */; };
+		11B144912799E387004F9A08 /* iPadPortraitMode.png in Resources */ = {isa = PBXBuildFile; fileRef = 11B1448D2799E387004F9A08 /* iPadPortraitMode.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,10 +30,10 @@
 		11055F642788C38800790E01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		11055F662788C38800790E01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		11B144872799E125004F9A08 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
-		11B1448A2799E386004F9A08 /* iPhone Lanscape Mode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone Lanscape Mode.png"; sourceTree = "<group>"; };
-		11B1448B2799E387004F9A08 /* iPhone Portrait Mode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone Portrait Mode.png"; sourceTree = "<group>"; };
-		11B1448C2799E387004F9A08 /* iPad Lanscape Mode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPad Lanscape Mode.png"; sourceTree = "<group>"; };
-		11B1448D2799E387004F9A08 /* iPad Portrait Mode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPad Portrait Mode.png"; sourceTree = "<group>"; };
+		11B1448A2799E386004F9A08 /* iPhoneLanscapeMode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhoneLanscapeMode.png; sourceTree = "<group>"; };
+		11B1448B2799E387004F9A08 /* iPhonePortraitMode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhonePortraitMode.png; sourceTree = "<group>"; };
+		11B1448C2799E387004F9A08 /* iPadLanscapeMode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPadLanscapeMode.png; sourceTree = "<group>"; };
+		11B1448D2799E387004F9A08 /* iPadPortraitMode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPadPortraitMode.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,10 +82,10 @@
 		11B144892799E386004F9A08 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				11B1448A2799E386004F9A08 /* iPhone Lanscape Mode.png */,
-				11B1448B2799E387004F9A08 /* iPhone Portrait Mode.png */,
-				11B1448C2799E387004F9A08 /* iPad Lanscape Mode.png */,
-				11B1448D2799E387004F9A08 /* iPad Portrait Mode.png */,
+				11B1448A2799E386004F9A08 /* iPhoneLanscapeMode.png */,
+				11B1448B2799E387004F9A08 /* iPhonePortraitMode.png */,
+				11B1448C2799E387004F9A08 /* iPadLanscapeMode.png */,
+				11B1448D2799E387004F9A08 /* iPadPortraitMode.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -148,13 +148,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11B1448F2799E387004F9A08 /* iPhone Portrait Mode.png in Resources */,
-				11B144912799E387004F9A08 /* iPad Portrait Mode.png in Resources */,
-				11B144902799E387004F9A08 /* iPad Lanscape Mode.png in Resources */,
+				11B1448F2799E387004F9A08 /* iPhonePortraitMode.png in Resources */,
+				11B144912799E387004F9A08 /* iPadPortraitMode.png in Resources */,
+				11B144902799E387004F9A08 /* iPadLanscapeMode.png in Resources */,
 				11055F652788C38800790E01 /* LaunchScreen.storyboard in Resources */,
 				11055F622788C38800790E01 /* Assets.xcassets in Resources */,
 				11B144882799E125004F9A08 /* Readme.md in Resources */,
-				11B1448E2799E387004F9A08 /* iPhone Lanscape Mode.png in Resources */,
+				11B1448E2799E387004F9A08 /* iPhoneLanscapeMode.png in Resources */,
 				11055F602788C38500790E01 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
