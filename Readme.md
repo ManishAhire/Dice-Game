@@ -1,6 +1,6 @@
 #  Dice App
 
-Simple app to roll the dice on button presses 
+Simple app to roll the dice on button press. In this demo, we learned some UI related concepts and also the basics of swift.
 
 ## Build On
 - XCode 13.2
@@ -8,10 +8,10 @@ Simple app to roll the dice on button presses
 
 
 ## What we learn here
-- How to links between the Interface Builder files and code using IBActions and IBOutlets
-- Understand and use Swift constants and variables.
-- Understand and use collection types such as Swift arrays.
--Learn about randomisation and how to generate random numbers in Swift.
+- How to link between the Interface Builder file and code using IBAction and IBOutlet.
+- Use of constants and variables.
+- Use of collection types such as arrays.
+- Learned about randomization and how to generate random number.
 
 ## Screenshots
 
@@ -29,8 +29,8 @@ Simple app to roll the dice on button presses
 
 
 ## Contact
-Name: Manish Ahre
+**Name:** Manish Ahire
 
-Portfolio: [www.manishahire.com](https://www.manishahire.com/) 
+**Portfolio:** [www.manishahire.com](https://www.manishahire.com/) 
 
-Blog: [www.mobodevstuff.com](https://www.mobodevstuff.com/) 
+**Blog:** [www.mobodevstuff.com](https://www.mobodevstuff.com/) 
